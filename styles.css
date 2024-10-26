@@ -75,3 +75,11 @@ h2 {
     border-radius: 5px; /* 角を丸くする */
     border: 1px solid #ddd; /* 薄い境界線 */
 }
+
+.responsive-image {
+    width: 100%; /* 横幅を画面サイズに合わせる */
+    max-width: 1000px; /* 最大幅を設定（任意） */
+    height: auto; /* 比率を維持 */
+    margin: auto;
+    display: block;
+}
