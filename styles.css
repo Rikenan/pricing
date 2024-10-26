@@ -83,3 +83,15 @@ h2 {
     margin: auto;
     display: block;
 }
+
+.col-1 {
+    width: 25%; /* 依頼内容の幅を30% */
+}
+
+.col-2 {
+    width: 50%; /* 内容の詳細の幅を50% */
+}
+
+.col-3 {
+    width: 25%; /* 料金の幅を20% */
+}
