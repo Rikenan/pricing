@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffff; /* 白基調 */
-    color: #333; /* 文字の色 */
+    color: #555555; /* 文字の色 */
 }
 
 h2 {
@@ -31,6 +31,7 @@ h2 {
 .styled-table th,
 .styled-table td {
     padding: 12px 15px;
+    font-weight: bold;
 }
 
 .styled-table tbody tr {
